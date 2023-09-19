@@ -182,7 +182,8 @@ const Meeting = () => {
 
               <li>
                 <a
-                  href="#"
+                  href="https://github.com/Ronranjit/Google-Meet.git"
+                  target="_blank"
                   title=""
                   class="flex items-center justify-center text-white transition-all duration-200 bg-gray-800 rounded-full w-7 h-7 hover:bg-blue-600 focus:bg-blue-600 bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] r  group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt "
                 >
